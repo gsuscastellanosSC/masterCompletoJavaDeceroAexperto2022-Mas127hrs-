@@ -21,6 +21,37 @@
     🔥 Omitir la instalación de plugins adicionales
 ```
 
+## ✅Class#5⚡️
+```
+📢 Introducción a Java
+    🔥 Desarrollado por SunMicrosystems en el año1995 
+    🔥 Inicialmentecomienzaa desarrollarse e n1991 para tarjetas inteligentes y sintonizadoresde TV 
+    🔥 Integrado por un equipode 13 personas al mando de James Gosling 
+    🔥 BasadoenC++ 
+    🔥 Inicialmentellamado Oak pero finalmente fue renombradoa Java 
+    🔥 Lanzado públicamente y oficialen 1996 incluyendo Soporte web con el navegador HotJava  
+    🔥 Luego en 1998 aparecenlas primeras versiones de Java EE (J2EE 1.0)
+    🔥 Independiente de la plataforma
+    
+    🔥 La idea de Gosling era que el lenguaje java fuera multiplataforma y su promesa era:
+            🔥 Escríbelo una vez, ejecútalo donde quieras !
+            🔥 Un lenguaje independiente del sistema operativo con un entorno de ejecución llamado JVM (máquina virtual de Java).
+    
+    🔥 El Bytecode
+        🔥 Todo código java se compila en un lenguaje intermedio que no es 100% binario, esta justo entremedio de la maquina y el código fuente y se le conoce como Bytecode
+
+     🔥 Características
+
+        🔥 Muchos tipos de aplicaciones (Consola, ventanas, web, distribuidas etc)
+        🔥 Multiplataforma
+        🔥 Programación orientada a objetos
+        🔥 Recolector de basura
+        🔥 Polimorfismo
+        🔥 Modularidad
+        🔥 Principio de ocultación
+        🔥 Lenguaje Tipado
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
