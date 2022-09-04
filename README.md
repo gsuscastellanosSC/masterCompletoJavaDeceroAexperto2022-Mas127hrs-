@@ -83,6 +83,11 @@
 📢 Reglas para definir una variable
 ```
 
+## ✅Class#11⚡️
+```
+📢 Introducción a los primitivos
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
@@ -102,4 +107,6 @@
 ## 🚧Links📌
 * 📄 [JDK](https://www.oracle.com/java/)
 * 📄 [IntelliJ IDEA](https://www.jetbrains.com/)
+* 📄 [unicode](https://unicode-table.com/es/blocks/)
+* 📄 [Tipos de datos y tamaños](https://docs.oracle.com/cd/E19253-01/819-6957/chp-typeopexpr-2/index.html)
 * 📄 [name](url)
