@@ -5,7 +5,10 @@
 ```
 📢 Introducción al curso
 ```
-
+## ✅Class#2⚡️
+```
+📢 Antes de comenzar
+```
 
 ## 🚧Links📌
  * 📄 [name](url)
