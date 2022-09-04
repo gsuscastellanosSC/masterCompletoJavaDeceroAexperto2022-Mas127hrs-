@@ -108,6 +108,11 @@
 📢 Primitivo char o caracter
 ```
 
+## ✅Class#16⚡️
+```
+📢 Char y caracteres especiales
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
