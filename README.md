@@ -73,6 +73,11 @@
         🔥 Referencia(Objetos, Arrays, Interfaces, Enums..., etc)
 ```
 
+## ✅Class#9⚡️
+```
+📢 Ejemplos de variables
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
