@@ -93,6 +93,11 @@
 📢 Primitivos numéricos enteros
 ```
 
+## ✅Class#13⚡️
+```
+📢 Primitivos numéricos de punto flotante
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
