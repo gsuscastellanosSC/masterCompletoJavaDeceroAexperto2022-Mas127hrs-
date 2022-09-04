@@ -98,6 +98,11 @@
 📢 Primitivos numéricos de punto flotante
 ```
 
+## ✅Class#14⚡️
+```
+📢 Primitivos numéricos de punto flotante y sus constantes
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
@@ -113,6 +118,7 @@
 📢 Tags
     🔥 git tag -a Class# -m "Description Class"
     🔥 git push origin --tags
+    🔥 git tag --delete tagName
 ```
 ## 🚧Links📌
 * 📄 [JDK](https://www.oracle.com/java/)
