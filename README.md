@@ -12,14 +12,32 @@
 ## ✅Class#3⚡️
 ```
 📢 Instalación JDK
- 🔥 Oracle va sacando nuevas versiones cada seis meses
+   🔥 Oracle va sacando nuevas versiones cada seis meses
+```
+## ✅Class#4⚡️
+```
+📢 Instalación IntelliJ IDEA
+    🔥 Usar la versión Community
+    🔥 Omitir la instalación de plugins adicionales
+```
+
+## ✅Class#⚡️
+```
+📢 Description Class
+    🔥
+    🔥
+    🔥
 ```
 
 ## ☣️Comandos☣️
 ```
-🔥 Commits: git commit -ms "Class#"
-🔥 Tags:    git tag -a Class# -m "Description Class"
+📢 Commits:
+    🔥 git commit -sm "Class#"
+📢 Tags
+    🔥 git tag -a Class# -m "Description Class"
+    🔥 git push origin --tags
 ```
 ## 🚧Links📌
- * 📄 [JDK](https://www.oracle.com/java/)
- * 📄 [name](url)
+* 📄 [JDK](https://www.oracle.com/java/)
+* 📄 [IntelliJ IDEA](https://www.jetbrains.com/)
+* 📄 [name](url)
