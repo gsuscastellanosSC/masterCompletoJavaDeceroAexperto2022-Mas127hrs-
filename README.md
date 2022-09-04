@@ -110,7 +110,13 @@
 
 ## ✅Class#16⚡️
 ```
-📢 Char y caracteres especiales
+📢 Primitivo boolean o lógico binario
+```
+
+
+## ✅Class#17⚡️
+```
+📢 Primitivo boolean o lógico binario
 ```
 
 ## ✅Class#⚡️
