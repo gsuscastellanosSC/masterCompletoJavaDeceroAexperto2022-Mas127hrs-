@@ -88,6 +88,11 @@
 📢 Introducción a los primitivos
 ```
 
+## ✅Class#12⚡️
+```
+📢 Primitivos numéricos enteros
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
