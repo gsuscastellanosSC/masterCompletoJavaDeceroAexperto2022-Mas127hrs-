@@ -62,6 +62,17 @@
 📢 Ejemplo Hola Mundo en Java
 ```
 
+## ✅Class#8⚡️
+```
+📢 Introducción a las variables
+    🔥 Java es fuertemente tipado
+    🔥 Las variables siempre estan formadas por dos lementos el tipo y nombreDeVariable(camelCase)
+    🔥 Desde la versión 10 el tipado puede ser dinamico, similar a JS(var nombre de Variable), siempre y cuando se respeten los tipos de datos.
+    🔥 Existen dos tipos de datos en java
+        🔥 Primitivos(Strings, int, boolean..., etc)
+        🔥 Referencia(Objetos, Arrays, Interfaces, Enums..., etc)
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
