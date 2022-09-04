@@ -57,6 +57,11 @@
 📢 Creando nuestra primera aplicación
 ```
 
+## ✅Class#7⚡️
+```
+📢 Ejemplo Hola Mundo en Java
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
