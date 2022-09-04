@@ -78,6 +78,11 @@
 📢 Ejemplos de variables
 ```
 
+## ✅Class#10⚡️
+```
+📢 Reglas para definir una variable
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
