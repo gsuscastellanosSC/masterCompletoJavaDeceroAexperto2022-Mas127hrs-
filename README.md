@@ -103,6 +103,11 @@
 📢 Primitivos numéricos de punto flotante y sus constantes
 ```
 
+## ✅Class#15⚡️
+```
+📢 Primitivo char o caracter
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
@@ -117,7 +122,7 @@
     🔥 git commit -sm "Class#"
 📢 Tags
     🔥 git tag -a Class# -m "Description Class"
-    🔥 git push origin --tags
+    🔥 git push origin master --tags
     🔥 git tag --delete tagName
 ```
 ## 🚧Links📌
