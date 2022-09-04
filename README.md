@@ -52,6 +52,11 @@
         🔥 Lenguaje Tipado
 ```
 
+## ✅Class#6⚡️
+```
+📢 Creando nuestra primera aplicación
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
