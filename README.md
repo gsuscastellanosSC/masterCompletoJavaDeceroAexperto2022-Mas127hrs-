@@ -169,6 +169,11 @@
 📢 Concatenando String
 ```
 
+## ✅Class#28⚡️
+```
+📢 Inmutabilidad
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
