@@ -134,6 +134,11 @@
 📢 Sistemas númericos y entradas de datos desde el terminal
 ```
 
+## ✅Class#21⚡️
+```
+📢 Conversión de cadenas a primitivos
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
