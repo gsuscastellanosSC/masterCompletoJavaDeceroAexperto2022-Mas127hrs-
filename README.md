@@ -164,12 +164,14 @@
 📢 Creando objeto String en la literal vs operador new
 ```
 
+## ✅Class#27⚡️
+```
+📢 Concatenando String
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
-    🔥
-    🔥
-    🔥
 ```
 
 ## ☣️Comandos☣️
