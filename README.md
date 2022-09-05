@@ -194,6 +194,11 @@
 📢 Métodos importantes del objeto String parte 2
 ```
 
+## ✅Class#33⚡️
+```
+📢 Obtener la extensión de un archivo
+```
+
 ## ☣️Commands☣️
 ```
 📢 Commits:

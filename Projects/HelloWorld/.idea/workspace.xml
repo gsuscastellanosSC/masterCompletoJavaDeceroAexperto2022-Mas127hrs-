@@ -35,14 +35,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EjemploStringMetodos">
-    <configuration name="ConversionDeTipos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConversionDeTipos" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EjemploStringExtensionArchivo">
     <configuration name="DetalleDeFactura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DetalleDeFactura" />
       <module name="HelloWorld" />
@@ -52,6 +45,13 @@
     </configuration>
     <configuration name="EjemploString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploString" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploStringExtensionArchivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploStringExtensionArchivo" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploStringExtensionArchivo" />
         <item itemvalue="Application.EjemploStringMetodos" />
         <item itemvalue="Application.EjemploString" />
         <item itemvalue="Application.DetalleDeFactura" />
         <item itemvalue="Application.SistemasNumericosEntradaScanner" />
-        <item itemvalue="Application.ConversionDeTipos" />
       </list>
     </recent_temporary>
   </component>
