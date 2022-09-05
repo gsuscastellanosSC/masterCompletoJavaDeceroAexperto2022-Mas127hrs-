@@ -174,6 +174,11 @@
 📢 Inmutabilidad
 ```
 
+## ✅Class#29⚡️
+```
+📢 Test rendimiento concatenar con operador (+) vs método concat() vs StringBuilder
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
