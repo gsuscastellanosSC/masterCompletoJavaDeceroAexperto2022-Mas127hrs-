@@ -159,6 +159,11 @@
 📢 Introducción a los String
 ```
 
+## ✅Class#26⚡️
+```
+📢 Creando objeto String en la literal vs operador new
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
