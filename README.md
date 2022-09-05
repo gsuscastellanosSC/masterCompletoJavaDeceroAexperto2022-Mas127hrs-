@@ -139,6 +139,11 @@
 📢 Conversión de cadenas a primitivos
 ```
 
+## ✅Class#22⚡️
+```
+📢 Conversiones de tipo primitivos a cadenas
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
