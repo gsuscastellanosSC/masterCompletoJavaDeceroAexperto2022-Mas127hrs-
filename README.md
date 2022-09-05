@@ -129,6 +129,11 @@
 📢 Sistemas númericos y entradas de datos desde ventana de dialogo
 ```
 
+## ✅Class#20⚡️
+```
+📢 Sistemas númericos y entradas de datos desde el terminal
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
