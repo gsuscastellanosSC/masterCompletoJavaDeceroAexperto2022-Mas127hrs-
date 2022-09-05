@@ -179,12 +179,17 @@
 📢 Test rendimiento concatenar con operador (+) vs método concat() vs StringBuilder
 ```
 
+## ✅Class#30⚡️
+```
+📢 Validar un String
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
 ```
 
-## ☣️Comandos☣️
+## ☣️Commands☣️
 ```
 📢 Commits:
     🔥 git commit -sm "Class#"
