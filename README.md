@@ -184,9 +184,9 @@
 📢 Validar un String
 ```
 
-## ✅Class#⚡️
+## ✅Class#31⚡️
 ```
-📢 Description Class
+📢 Métodos importantes del objeto String parte 1
 ```
 
 ## ☣️Commands☣️
