@@ -189,6 +189,11 @@
 📢 Métodos importantes del objeto String parte 1
 ```
 
+## ✅Class#32⚡️
+```
+📢 Métodos importantes del objeto String parte 2
+```
+
 ## ☣️Commands☣️
 ```
 📢 Commits:
