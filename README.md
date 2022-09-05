@@ -124,6 +124,11 @@
 📢 Sistemas númericos: decimal, binario, octal y hexadecimal
 ```
 
+## ✅Class#19⚡️
+```
+📢 Sistemas númericos y entradas de datos desde ventana de dialogo
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
