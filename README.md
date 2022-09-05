@@ -119,6 +119,11 @@
 📢 Primitivo boolean o lógico binario
 ```
 
+## ✅Class#18⚡️
+```
+📢 Sistemas númericos: decimal, binario, octal y hexadecimal
+```
+
 ## ✅Class#⚡️
 ```
 📢 Description Class
