@@ -1,0 +1,13 @@
+
+i
+java:S1192"SDefine a constant instead of duplicating this literal "Programaci√≥n Java" 3 times.(…œ·«
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(õ¸Çî˝ˇˇˇˇ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(€®£É˝ˇˇˇˇ
+6
+java:S2129" Remove this "String" constructor(Òö»å
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Éúëâ˘ˇˇˇˇ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(¥œÆ‰
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ı´®Œ

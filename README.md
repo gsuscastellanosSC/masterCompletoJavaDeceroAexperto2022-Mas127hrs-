@@ -199,6 +199,11 @@
 📢 Obtener la extensión de un archivo
 ```
 
+## ✅Class#34⚡️
+```
+📢 Algunos métodos útiles para convertir un String en un Arreglo
+```
+
 ## ☣️Commands☣️
 ```
 📢 Commits:

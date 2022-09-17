@@ -1,0 +1,9 @@
+
+V
+java:S1854	";Remove this useless assignment to local variable "invoice".(şääßøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Óá×Ğ
+G
+java:S1481	",Remove this unused "invoice" local variable.(şääßøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£Ûî
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦¯›‹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥Í²›ÿÿÿÿÿ
