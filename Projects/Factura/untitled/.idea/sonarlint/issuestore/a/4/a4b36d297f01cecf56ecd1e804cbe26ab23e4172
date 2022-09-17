@@ -1,0 +1,14 @@
+
+~
+java:S4165"cRemove this useless assignment; "folio" already holds the assigned value along all execution paths.(Ç¢’êøÿÿÿÿ
+z
+java:S1149 "_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ðÚæˆùÿÿÿÿ
+=
+java:S3010""Remove this assignment of "folio".(Ç¢’êøÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(Ç¢’êøÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ
+J
+java:S1656"/Remove or correct this useless self-assignment.(Ç¢’êøÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
